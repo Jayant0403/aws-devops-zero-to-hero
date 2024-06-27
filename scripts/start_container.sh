@@ -2,6 +2,7 @@
 set -e
 
 # Pull the Docker image from Docker Hub
+
 docker pull jayantk89/simple-python-flask
 
 # Run the Docker image as a container
